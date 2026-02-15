@@ -203,6 +203,55 @@ These metrics were tested under:
 
 ---
 
+## 📸 Screenshots & System Diagrams
+
+### 🧩 Research Questions & Objectives
+
+![Research Questions](assets/diagrams/research_questions.png)
+
+This diagram summarizes the core research questions and objectives, including evaluation of statistical, deep learning, and hybrid forecasting models and the development of a practical forecasting tool for developers.
+
+---
+
+### 🧠 Forecasting Pipeline
+
+![Forecasting Pipeline](assets/diagrams/pipeline.png)
+
+The engagement prediction workflow begins with Python usage logs and contextual data, followed by feature engineering and time-series modeling (ARIMA, LSTM, and hybrid models) to generate Daily Active User (DAU) forecasts.
+
+---
+
+### 🔄 Research Methodology
+
+![Methodology](assets/diagrams/methodology.png)
+
+The study follows a full machine learning lifecycle including data collection, preprocessing, feature engineering, model development, evaluation, and robustness testing.
+
+---
+
+### 📊 Forecasting Dashboard
+
+![Forecast Dashboard](assets/screenshots/forecast_dashboard.png)
+
+Users upload log files and generate engagement predictions using hybrid forecasting models. The system visualizes predicted engagement trends and provides forecast tables.
+
+---
+
+### 🤖 Hybrid Model Forecast (Prophet-LSTM)
+
+![Hybrid Forecast](assets/screenshots/forecast_lstm.png)
+
+The interface allows selection of different models and displays time-series seasonal patterns and predicted engagement values.
+
+---
+
+### 📈 Model Performance Comparison
+
+![Model Comparison](assets/diagrams/model_comparison.png)
+
+Performance comparison shows hybrid models outperform statistical and deep learning models, achieving the lowest prediction error and highest forecasting accuracy.
+
+
 ## 🚀 Future Work
 
 * Real-time engagement prediction
