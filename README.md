@@ -207,7 +207,7 @@ These metrics were tested under:
 
 ### 🧩 Research Questions & Objectives
 
-![Research Questions](assets/diagrams/research_questions.png)
+![Research Questions](assets/screenshots/research_questions.png)
 
 This diagram summarizes the core research questions and objectives, including evaluation of statistical, deep learning, and hybrid forecasting models and the development of a practical forecasting tool for developers.
 
@@ -215,7 +215,7 @@ This diagram summarizes the core research questions and objectives, including ev
 
 ### 🧠 Forecasting Pipeline
 
-![Forecasting Pipeline](assets/diagrams/pipeline.png)
+![Forecasting Pipeline](assets/screenshots/pipeline.png)
 
 The engagement prediction workflow begins with Python usage logs and contextual data, followed by feature engineering and time-series modeling (ARIMA, LSTM, and hybrid models) to generate Daily Active User (DAU) forecasts.
 
@@ -223,7 +223,7 @@ The engagement prediction workflow begins with Python usage logs and contextual 
 
 ### 🔄 Research Methodology
 
-![Methodology](assets/diagrams/methodology.png)
+![Methodology](assets/screenshots/methodology.png)
 
 The study follows a full machine learning lifecycle including data collection, preprocessing, feature engineering, model development, evaluation, and robustness testing.
 
@@ -247,7 +247,7 @@ The interface allows selection of different models and displays time-series seas
 
 ### 📈 Model Performance Comparison
 
-![Model Comparison](assets/diagrams/model_comparison.png)
+![Model Comparison](assets/screenshots/model_comparison.png)
 
 Performance comparison shows hybrid models outperform statistical and deep learning models, achieving the lowest prediction error and highest forecasting accuracy.
 
