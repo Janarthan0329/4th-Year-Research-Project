@@ -58,6 +58,21 @@ Hybrid models combine trend decomposition and residual learning to improve predi
 ---
 
 ## 📊 Key Findings
+### 🧪 Final Model Performance Results
+
+![Final Model Results](assets/screenshots/model_results.png)
+
+The final evaluation compares statistical, deep learning, and hybrid forecasting models using MAE, RMSE, and MAPE metrics.
+
+Key observations:
+
+* **Prophet + LSTM** achieved the best performance with the lowest prediction error (MAPE 6.35%).
+* **SARIMAX + GRU** showed the second-best performance (MAPE 8.53%).
+* Traditional statistical models (ARIMA, SARIMA, Prophet) captured seasonality but struggled with irregular usage patterns.
+* Deep learning models (LSTM, GRU) required larger datasets and showed higher prediction error compared to hybrid approaches.
+
+The results demonstrate that combining statistical trend decomposition with neural network residual learning significantly improves engagement forecasting accuracy.
+
 
 Hybrid models significantly outperformed both statistical and deep learning approaches.
 
