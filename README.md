@@ -99,6 +99,31 @@ Hybrid models achieved the lowest prediction error (MAPE 6.35%), showing they ar
 
 The tool allows developers to upload logs and view predicted engagement values through visual dashboards. 
 
+## 🔗 Forecasting Tool Source Code
+
+The full implementation of the user engagement forecasting application (web system and model integration) is maintained in a separate repository:
+
+👉 https://github.com/Janarthan0329/User_Engagement_forecasting
+
+This repository contains:
+
+* Django + React web application
+* REST API integration
+* Model execution interface
+* Forecast visualization dashboard
+
+The current repository focuses on the **research work, experiments, notebooks, and evaluation**, while the above repository contains the **deployable software tool implementation**.
+
+### Why a Separate Repository?
+
+The forecasting tool includes frontend and backend application code and deployment configurations, while this repository is intended to:
+
+* document the research methodology
+* present experimental results
+* provide reproducibility of the research
+
+Separating them improves maintainability and keeps the research repository lightweight and easier to reproduce.
+
 ---
 
 ## 🏗️ System Architecture
