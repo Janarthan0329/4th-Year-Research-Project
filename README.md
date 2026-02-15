@@ -60,7 +60,7 @@ Hybrid models combine trend decomposition and residual learning to improve predi
 ## 📊 Key Findings
 ### 🧪 Final Model Performance Results
 
-![Final Model Results](assets/screenshots/model_results.png)
+![Final Model Results](assets/screenshots/models_results.png)
 
 The final evaluation compares statistical, deep learning, and hybrid forecasting models using MAE, RMSE, and MAPE metrics.
 
