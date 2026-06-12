@@ -316,8 +316,9 @@ Sabaragamuwa University of Sri Lanka
 
 ## 📄 Publications
 
-* *Hybrid Deep Learning Models for Time Series Forecasting of User Engagement in Python Software Applications* 
-* *Time Series Forecasting of User Engagement in Python Software Applications Based on Usage Logs* 
+* • Janarthan, V., Erandi, J. D. T., Tharaka, Y. M. S., Vasavan, M., & Luxshi, K. (2026). Hybrid Deep Learning Models for Time Series Forecasting of User Engagement in Python Software Applications. In Proceedings of the International Conference on Artificial Intelligence and Data Analytics (AIMDA 2026), University of Peradeniya, Sri Lanka.
+
+* • Janarthan, V., Erandi, J. D. T., & Tharaka, Y. M. S. (2026). Time Series Forecasting of User Engagement in Python Software Applications Based on Usage Logs. In Proceedings of the 9th IEEE International Research Conference on Smart Computing and Systems Engineering (SCSE 2026), University of Kelaniya, Sri Lanka.
 
 ---
 
