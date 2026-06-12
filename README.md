@@ -141,10 +141,12 @@ Visualization Dashboard
         ↓
 Engagement Forecast
 ```
+---
+
 ![Workflow of the User Engagement Forecasting Tool](assets/screenshots/Workflow of the User Engagement Forecasting Tool.png) 
 
 
----
+----
 
 ## 🛠️ Technology Stack
 
