@@ -263,7 +263,7 @@ The engagement prediction workflow begins with Python usage logs and contextual 
 
 ### 🔄 Research Methodology
 
-![Methodology](assets/screenshots/methodology.png)
+![Methodology](assets/screenshots/Methodology.png)
 
 The study follows a full machine learning lifecycle including data collection, preprocessing, feature engineering, model development, evaluation, and robustness testing.
 
