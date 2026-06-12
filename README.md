@@ -143,7 +143,7 @@ Engagement Forecast
 ```
 ---
 
-![Workflow of the User Engagement Forecasting Tool](assets/screenshots/Workflow of the User Engagement Forecasting Tool.png) 
+![Workflow of the User Engagement Forecasting Tool](./assets/screenshots/Workflow%20of%20the%20User%20Engagement%20Forecasting%20Tool.png)
 
 
 ----
